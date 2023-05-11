@@ -2,7 +2,7 @@
 
 Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
-Create a simple yet stunning website to showcase your skills and personality as a developer. Chaljlenge yourself to stand out and impress potential employers or clients.
+Create a simple yet stunning website to showcase your skills and personality as a developer. Chaljlenge yourself to stand out and impress potential employers or clients.j
 
 ## How to start
 
